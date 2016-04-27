@@ -1,0 +1,8 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\bin\Debug\TP2_Multi_Threads.exe.config
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\bin\Debug\TP2_Multi_Threads.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\bin\Debug\TP2_Multi_Threads.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\bin\Debug\TriDLL.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\bin\Debug\TriDLL.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\obj\Debug\TP2_Multi_Threads.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\obj\Debug\TP2_Multi_Threads.exe
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TP2_Multi_Threads\obj\Debug\TP2_Multi_Threads.pdb

@@ -1,0 +1,5 @@
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TriDLL\bin\Debug\TriDLL.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TriDLL\bin\Debug\TriDLL.pdb
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TriDLL\obj\Debug\TriDLL.csprojResolveAssemblyReference.cache
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TriDLL\obj\Debug\TriDLL.dll
+c:\users\maxime\documents\visual studio 2015\Projects\TP2_Multi_Threads\TriDLL\obj\Debug\TriDLL.pdb
